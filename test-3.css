@@ -1,0 +1,35 @@
+.test-big-pfp {
+  border-radius: 30px;
+}
+
+.test3 {
+  display: flex;
+  column-gap: 20px;
+  height: 275px;
+  margin-bottom: 30px;
+}
+
+.test3-box {
+  background-color: black;
+  border-radius: 30px;
+  padding: 20px 30px;
+}
+
+.rating {
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+
+.test3-name {
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+.test3-desc {
+  margin-bottom: 20px;
+}
+
+.test3-info {
+  word-spacing: 2px;
+  font-size: 1.1rem;
+}

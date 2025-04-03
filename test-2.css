@@ -1,0 +1,42 @@
+.test2 {
+  display: flex;
+  flex-direction: column;
+  row-gap: 17px;
+  position: relative;
+  border: 2px solid black;
+  width: 350px;
+  border-radius: 30px;
+}
+
+.test2-text {
+  color: rgb(0, 0, 0);
+  font-size: 1.1rem;
+  width: 350px;
+  padding: 15px 20px;
+  word-spacing: 2px;
+  border-radius: 20px;
+  line-height: 25px;
+}
+
+.test2-box {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  padding: 0 0 10px 20px;
+}
+
+.signature {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.test-small-pfp {
+  border-radius: 40px;
+}
+.name {
+  font-size: 1.2rem;
+}
+
+.desc {
+  font-size: 0.8rem;
+}

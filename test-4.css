@@ -1,0 +1,39 @@
+.test4 {
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.test4-txt {
+  text-align: center;
+  margin: 40px 80px;
+  font-size: 1.1rem;
+  line-height: 25px;
+}
+
+.test4-imgs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+}
+
+img.transparent {
+  opacity: 0.4;
+}
+
+img.main-pfp {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.test4-small-pfp {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+.test4-name {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
